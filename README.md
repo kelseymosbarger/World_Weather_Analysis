@@ -24,8 +24,10 @@ Current Weather description
 
 ## Results
 This is an image of all of the possible vacation desitnation that fall within the users input:
+![image](https://user-images.githubusercontent.com/94019661/152465645-ca63eb59-16e5-4ec4-9d48-182f3a3e8806.png)
 
 
 
 and this is an image of the finalized vacation routes between the destinations, which include pop
 up boxes with the hotel and weather info for each location.
+![image](https://user-images.githubusercontent.com/94019661/152465663-ea33bb60-fa22-4956-a852-282574795775.png)
